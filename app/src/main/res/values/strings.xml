@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Remiderfrag</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_1">Fragment 1</string>
+    <string name="fragment_2">Fragment 2</string>
+    <string name="frag2button">Fragment1</string>
+    <string name="frag1button">Fragmet2</string>
+</resources>
